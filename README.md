@@ -1,8 +1,5 @@
-# Mad9013 Week12 - Content Module
-
----
-## Topics:
-* Bootstrap4
+# Mad9013 Week12
+## Bootstrap 4 grid exercise
 
 ---
 [Git Commands Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
